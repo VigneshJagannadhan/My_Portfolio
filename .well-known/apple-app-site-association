@@ -16,6 +16,13 @@
           }
         ]
       }
+    ],
+    "alternate": [
+      {
+        "appIDs": ["8L54L34JFK.com.staffblast.app"],
+        "uriPrefix": "staffblast-dev://",
+        "comment": "Alternate mode for development"
+      }
     ]
   },
   "webcredentials": {
