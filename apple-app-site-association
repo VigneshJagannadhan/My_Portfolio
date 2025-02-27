@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "8L54L34JFK.com.staffblast.app"
+        ],
+        "paths": [
+          "/managerRegistration/"
+        ],
+        "components": [
+          {
+            "/": "/managerRegistration/",
+            "comment": "Matches manager registration paths"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8L54L34JFK.com.staffblast.app"
+    ]
+  }
+}
