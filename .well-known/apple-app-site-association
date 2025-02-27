@@ -7,11 +7,11 @@
           "8L54L34JFK.com.staffblast.app"
         ],
         "paths": [
-          "/managerRegistration/*"
+          "/managerRegistration"
         ],
         "components": [
           {
-            "/": "/managerRegistration/*",
+            "/": "/managerRegistration",
             "comment": "Matches manager registration paths"
           }
         ]
